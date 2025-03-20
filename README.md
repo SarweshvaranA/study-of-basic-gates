@@ -1,4 +1,6 @@
-### study-of-basic-gates
+### SARWESHVARAN A
+### 212223230198
+### EXP1 STUDY OF LOGIC GATES
 
 **AIM:** 
 
@@ -63,17 +65,26 @@ Y= A⊕B
 
 
 **PROGRAM**
+![Screenshot 2025-03-17 114655](https://github.com/user-attachments/assets/e0c88f4c-c684-4302-a02f-5e9228eac3dc)
 
-Program for logic gates and verify its truth table in quartus using Verilog programming
-
- Developed by: RegisterNumber: 
  
-**Logic symbol & Truthtable**
+**Logic symbol & Truthtable:**
+
+![image](https://github.com/user-attachments/assets/3d587784-cff7-48f7-a426-a7d0bbe62ae6)
+
 
 **RTL realization Output:** 
 
-**RTL**
+![Screenshot 2025-03-17 114708](https://github.com/user-attachments/assets/7e59b940-f909-479a-a00a-98d98a23af6e)
+
+
+**RTL:**
+
+ ![image](https://github.com/user-attachments/assets/94616d82-87ec-45f5-a4a4-be0e9a351175)
+
 
 **Result:**
+
+Thus the above experiment is successfully executed.
 
 
