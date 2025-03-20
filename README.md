@@ -85,6 +85,5 @@ Y= A⊕B
 
 **Result:**
 
-Thus the above experiment is successfully executed.
-
+Thus the truth table of logic gates (AND,OR,NOT,NAND,NOR,XOR,XNOR) is successfully implemented and verified using verilog programmming in Quartus II.
 
